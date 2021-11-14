@@ -4,7 +4,7 @@ About Me:
 
 - 🏫 I’m currently in Third year's of Engineering in EXTC from BVCOE Navi Mumbai.
 - 🌱 I’m currently learning **Fronted Deveploment**
-- ⚡ Fun fact: ** I Love to code**
+- ⚡ Fun fact: **I Love to code**
 
 📫 How to reach me:
 
