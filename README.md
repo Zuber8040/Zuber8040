@@ -10,7 +10,7 @@ About Me:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/Zuber763) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/zuber-u-a37673183)
 
-[!](https://img.shields.io/github/issues/Zuber8040/A-Todo-App-With-REACT)
+
 
 <!--
 **Zuber8040/Zuber8040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
